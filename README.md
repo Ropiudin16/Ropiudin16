@@ -30,5 +30,9 @@
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=Ropiudin16&show_icons=true&locale=en" alt="Ropiudin16" /></p>
 
+![Ropiudin16's GitHub stats](https://github-readme-stats.vercel.app/api?username=Ropiudin16&theme=merko&show_icons=true)
+
+[default]: https://github-readme-stats.vercel.app/api?username=Ropiudin16&show_icons=true&hide=contribs,prs&cache_seconds=86400&theme=merko
+
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=Ropiudin16&" alt="Ropiudin16" /></p>
 
