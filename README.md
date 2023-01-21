@@ -32,7 +32,7 @@
 
 ![Ropiudin16's GitHub stats](https://github-readme-stats.vercel.app/api?username=Ropiudin16&theme=merko&show_icons=true)
 
-[default]: https://github-readme-stats.vercel.app/api?username=Ropiudin16&show_icons=true&hide=contribs,prs&cache_seconds=86400&theme=merko
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=Ropiudin16&repo=github-readme-stats)](https://github.com/Ropiudin16/github-readme-stats)
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=Ropiudin16&" alt="Ropiudin16" /></p>
 
