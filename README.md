@@ -34,3 +34,5 @@
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=Ropiudin16&theme=default&show_icons=true" alt="Ropiudin16" /></p>
 
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=Ropiudin16&repo=Final-Project-Anminvesting&show_owner=true)](https://github.com/Ropiudin16/Final-Project-Anminvesting)
+
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=Ropiudin16&repo=Image-Classification---brain-tumor-classification-using-CNN&show_owner=true)](https://github.com/Ropiudin16/Image-Classification---brain-tumor-classification-using-CNN)
