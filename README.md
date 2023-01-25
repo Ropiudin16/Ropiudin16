@@ -14,7 +14,7 @@
 
 - 📫 How to reach me **ropiudinropiudin16@gmail.com**
 
-- 📄 Know about my experiences [Resume](https://drive.google.com/file/d/1RQRIj41gY8Ia5ehmg-4_JTGDnm2K21tv/view?usp=sharing)
+- 📄 Know about my experiences [Resume](https://drive.google.com/file/d/1qGYLQDsOreRejttTIf5XajPCmp24j-yB/view?usp=share_link)
 
 - Here is my Medium **[Medium](https://medium.com/@ropiudinropiudin16)**
 
